@@ -1,0 +1,141 @@
+select {
+	min-width:90%;
+}
+
+body {
+	padding-left:10px !important;
+	padding-right:10px !important;
+}
+
+.button-success {
+    background: rgb(106,165,5);
+    color: white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 0px;
+    padding-right: 8px;
+    font-family: consolas, monospace !important;
+    font-size: 12px;
+}
+
+fieldset {
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 5px;
+    font-size: 12px;
+    font-family: consolas, monospace !important;
+}
+
+h1 {
+    font-family: consolas, monospace !important;
+    margin-bottom:0px;
+    margin-top: 5px;
+}
+
+h2 {
+    font-family: consolas, monospace !important;
+    font-size:20px;
+    margin-bottom:5px;
+    margin-top:5px;
+}
+
+.add {
+    margin-left: 5px;
+}
+
+.numbers {
+    width: 158px !important;
+    min-width: 158px !important;
+    margin-top: 10px;
+    font-size: 12px;
+    font-family: consolas, monospace !important;
+}
+
+#MessageField, #PhoneNumber, #twilioSID #twilioNum {
+	margin-right: 5px !important;
+}
+
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+p {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.settings {
+    font-family: consolas, monospace !important;
+    font-size: 10px;
+}
+
+.button-secondary {
+    background: rgb(66, 184, 221);
+    color: white;
+}
+
+.button-error {
+    background: rgb(202, 60, 60);
+    color: white;
+}
+
+.card {
+    font-family: consolas, monospace !important;
+    font-size: 11px;
+    margin: 0px;
+}
+
+.imported {
+    background-color: rgb(222, 222, 213);
+}
+
+.preshow, .redial {
+    background-color: rgb(226, 158, 21) !important;
+}
+
+.started, .queued, .ringing {
+    background-color: rgb(217, 206, 147);
+}
+
+.in-progress, .completed {
+    background-color: rgb(250, 212, 12);
+}
+
+.canceled, .busy, .no-answer, .failed {
+    background-color: rgb(186, 8, 16);
+}
+
+.finished {
+    background-color: rgb(106, 165, 5);
+}
+
+.cardDetail {
+    font-size: 9px;
+
+}
+
+.log {
+    font-family: consolas, monospace !important;
+    font-size: 12px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    color: #999 !important;
+}
+
+.log b {
+    color:#000;
+}
