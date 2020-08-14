@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eff01866a28d2ad978664752842b0011",
+    "revision": "4d7cf5566a13787b0e5e773b6ddbc0ef",
     "url": "/RedLight/index.html"
   },
   {
