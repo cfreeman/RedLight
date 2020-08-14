@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a9f6daac4aced5161cad23ff594af9b",
+    "revision": "385f80d0be661934b5e8f9e5c1ce8932",
     "url": "/RedLight/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RedLight/static/js/2.9213a71a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a02585e3ee2bdf293917",
-    "url": "/RedLight/static/js/main.5d36a713.chunk.js"
+    "revision": "ed4990c574a833a13f7a",
+    "url": "/RedLight/static/js/main.77b585a3.chunk.js"
   },
   {
     "revision": "64c6feff1579ed920be0",
