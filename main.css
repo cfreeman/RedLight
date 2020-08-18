@@ -123,6 +123,11 @@ p {
     background-color: rgb(106, 165, 5);
 }
 
+.short {
+    background-color: rgb(114, 74, 48) !important;
+    color: white;
+}
+
 .cardDetail {
     font-size: 9px;
 
